@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: mypy-boto3-kinesis
-  version: "1.38.8"
+  version: "1.39.0"
 
 package:
   name: ${{ name|lower }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/mypy_boto3_kinesis-${{ version }}.tar.gz
-  sha256: 3932c77f3fc8c375454f3dfa71e1e2f18545d95c854dab57dc9c3ba6b561d928
+  sha256: cf9b01d8a1944299fea65be74d72b32b1a5210fa9681387184af2e2c2f4cea04
 
 build:
   number: 0
