@@ -1,7 +1,7 @@
 About mypy-boto3-kinesis-feedstock
 ==================================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mypy-boto3-kinesis-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/conda-forge-fix-1770193454-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/youtype/mypy_boto3_builder
 
@@ -17,8 +17,8 @@ Current build status
 
 <table><tr><td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=25061&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/mypy-boto3-kinesis-feedstock?branchName=main">
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=None&branchName=main">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/conda-forge-fix-1770193454-feedstock?branchName=main">
       </a>
     </td>
   </tr>
