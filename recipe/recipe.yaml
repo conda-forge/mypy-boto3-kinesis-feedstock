@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   name: mypy-boto3-kinesis
-  version: 1.43.101
+  version: 1.44.0
 
 package:
   name: ${{ name|lower }}
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/mypy_boto3_kinesis-${{ version }}.tar.gz
-  sha256: c53332f7544e5653698c0c2d067fe4948aa1b8b5073a50fd3291c6b174965df5
+  sha256: ac549267f7f7415566dc888e1038bf972447d50e75f411966726b25fa0dcd8e3
 
 build:
   number: 0
@@ -26,7 +26,6 @@ requirements:
     - python ${{ python_min }}.*
     - setuptools
   run:
-    - botocore
     - python >=${{ python_min }}
     - typing_extensions
 tests:
