@@ -7,7 +7,7 @@ Home: https://github.com/youtype/mypy_boto3_builder
 
 Package license: MIT
 
-Summary: Type annotations for boto3 Kinesis 1.44.0 service generated with mypy-boto3-builder
+Summary: Type annotations for boto3 Kinesis 1.44.5 service generated with mypy-boto3-builder
 
 Development: https://github.com/youtype/mypy_boto3_builder
 
